@@ -1,0 +1,269 @@
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.29 }
+
+\bibitem[Andr{\'e} e Stubs~Parpinelli 2015]{andre2015multiple}
+\abntrefinfo{Andr{\'e} e Stubs~Parpinelli}{ANDR{\'E}; STUBS~PARPINELLI}{2015}
+{ANDR{\'E}, L.; STUBS~PARPINELLI, R. The multiple knapsack problem approached
+  by a binary differential evolution algorithm with adaptive parameters.
+\emph{ Polibits}, Instituto Polit{\'e}cnico Nacional, Centro de Innovaci{\'o}n
+  y Desarrollo Tecnol{\'o}gico en C{\'o}mputo, n.~51, p. 47--54, 2015.}
+
+\bibitem[Bastos~Filho 2009]{bastos2009influence}
+\abntrefinfo{Bastos~Filho}{BASTOS~FILHO}{2009}
+{BASTOS~FILHO, C.~J. et al. On the influence of the swimming operators in the
+  fish school search algorithm. In:  IEEE. \emph{ Systems, Man and Cybernetics,
+  2009. SMC 2009. IEEE International Conference on}. 2009. p. 5012--5017.}
+
+\bibitem[Bellman e Dreyfus 2015]{bellman2015applied}
+\abntrefinfo{Bellman e Dreyfus}{BELLMAN; DREYFUS}{2015}
+{BELLMAN, R.~E.; DREYFUS, S.~E. \emph{ Applied dynamic programming}. :
+  Princeton university press, 2015. 200--206~p.}
+
+\bibitem[Booker, Goldberg e Holland 1989]{ga}
+\abntrefinfo{Booker, Goldberg e Holland}{BOOKER; GOLDBERG; HOLLAND}{1989}
+{BOOKER, L.~B.; GOLDBERG, D.~E.; HOLLAND, J.~H. Classifier systems and genetic
+  algorithms.
+\emph{ Artificial intelligence}, Elsevier, v.~40, n.~1, p. 235--282, 1989.}
+
+\bibitem[Boussa{\"\i}d, Lepagnot e Siarry 2013]{boussaid2013survey}
+\abntrefinfo{Boussa{\"\i}d, Lepagnot e Siarry}{BOUSSA{\"I}D; LEPAGNOT;
+  SIARRY}{2013}
+{BOUSSA{\"I}D, I.; LEPAGNOT, J.; SIARRY, P. A survey on optimization
+  metaheuristics.
+\emph{ Information Sciences}, Elsevier, v. 237, p. 82--117, 2013.}
+
+\bibitem[Branke 1999]{moving_peak_1999}
+\abntrefinfo{Branke}{BRANKE}{1999}
+{BRANKE, J. Memory enhanced evolutionary algorithms for changing optimization
+  problems. In:  CITESEER. \emph{ In Congress on Evolutionary Computation
+  CEC99}. 1999.}
+
+\bibitem[Branke 2012]{branke2012evolutionary}
+\abntrefinfo{Branke}{BRANKE}{2012}
+{BRANKE, J. \emph{ Evolutionary optimization in dynamic environments}. :
+  Springer Science \& Business Media, 2012.}
+
+\bibitem[Carlisle 2002]{carlisle2002applying}
+\abntrefinfo{Carlisle}{CARLISLE}{2002}
+{CARLISLE, A.~J. \emph{ Applying the particle swarm optimizer to non-stationary
+  environments}. : Auburn University, 2002.}
+
+\bibitem[Carmelo~Filho 2008]{carmelo2008novel}
+\abntrefinfo{Carmelo~Filho}{CARMELO~FILHO}{2008}
+{CARMELO~FILHO, J. et al. A novel search algorithm based on fish school
+  behavior. In:  IEEE. \emph{ Systems, Man and Cybernetics, 2008. SMC 2008.
+  IEEE International Conference on}. 2008. p. 2646--2651.}
+
+\bibitem[Castro 2007]{de2007fundamentals}
+\abntrefinfo{Castro}{CASTRO}{2007}
+{CASTRO, L.~N. de. Fundamentals of natural computing: an overview.
+\emph{ Physics of Life Reviews}, Elsevier, v.~4, n.~1, p. 1--36, 2007.}
+
+\bibitem[Cavalcanti-J{\'u}nior 2011]{cavalcanti2011hybrid}
+\abntrefinfo{Cavalcanti-J{\'u}nior}{CAVALCANTI-J{\'U}NIOR}{2011}
+{CAVALCANTI-J{\'U}NIOR, G.~M. et al. A hybrid algorithm based on fish school
+  search and particle swarm optimization for dynamic problems. In:  \emph{
+  Advances in Swarm Intelligence}. : Springer, 2011. p. 543--552.}
+
+\bibitem[Corriveau 2012]{genotypic}
+\abntrefinfo{Corriveau}{CORRIVEAU}{2012}
+{CORRIVEAU, G. et al. Review and study of genotypic diversity measures for
+  real-coded representations.
+\emph{ Evolutionary Computation, IEEE Transactions on}, IEEE, v.~16, n.~5, p.
+  695--710, 2012.}
+
+\bibitem[Corriveau 2013]{phenotypic}
+\abntrefinfo{Corriveau}{CORRIVEAU}{2013}
+{CORRIVEAU, G. et al. Review of phenotypic diversity formulations for
+  diagnostic tool.
+\emph{ Applied Soft Computing}, Elsevier, v.~13, n.~1, p. 9--26, 2013.}
+
+\bibitem[{\v{C}}repin{\v{s}}ek, Liu e Mernik 2013]{vcrepinvsek2013exploration}
+\abntrefinfo{{\v{C}}repin{\v{s}}ek, Liu e Mernik}{{\v{C}}REPIN{\v{S}}EK; LIU;
+  MERNIK}{2013}
+{{\v{C}}REPIN{\v{S}}EK, M.; LIU, S.-H.; MERNIK, M. Exploration and exploitation
+  in evolutionary algorithms: a survey.
+\emph{ ACM Computing Surveys (CSUR)}, ACM, v.~45, n.~3, p.~35, 2013.}
+
+\bibitem[Cruz, Gonz{\'a}lez e Pelta 2011]{cruz2011optimization}
+\abntrefinfo{Cruz, Gonz{\'a}lez e Pelta}{CRUZ; GONZ{\'A}LEZ; PELTA}{2011}
+{CRUZ, C.; GONZ{\'A}LEZ, J.~R.; PELTA, D.~A. Optimization in dynamic
+  environments: a survey on problems, methods and measures.
+\emph{ Soft Computing}, Springer, v.~15, n.~7, p. 1427--1448, 2011.}
+
+\bibitem[De~Jong 1975]{crowding}
+\abntrefinfo{De~Jong}{DE~JONG}{1975}
+{DE~JONG, K.~A. Analysis of the behavior of a class of genetic adaptive
+  systems.
+1975.}
+
+\bibitem[Eberhart, Kennedy et al. 1995]{pso}
+\abntrefinfo{Eberhart, Kennedy et al.}{EBERHART; KENNEDY et al.}{1995}
+{EBERHART, R.~C.; KENNEDY, J. et al. A new optimizer using particle swarm
+  theory. In:  NEW YORK, NY. \emph{ Proceedings of the sixth international
+  symposium on micro machine and human science}. 1995. v.~1, p. 39--43.}
+
+\bibitem[Farahani, Nasiri e Meybodi 2011]{farahani2011multiswarm}
+\abntrefinfo{Farahani, Nasiri e Meybodi}{FARAHANI; NASIRI; MEYBODI}{2011}
+{FARAHANI, S.~M.; NASIRI, B.; MEYBODI, M.~R. A multiswarm based firefly
+  algorithm in dynamic environments. In:  CITESEER. \emph{ Third Int. Conf. on
+  Signal Processing Systems (ICSPS2011)}. 2011. v.~3, p. 68--72.}
+
+\bibitem[Garnier, Gautrais e Theraulaz 2007]{garnier2007biological}
+\abntrefinfo{Garnier, Gautrais e Theraulaz}{GARNIER; GAUTRAIS; THERAULAZ}{2007}
+{GARNIER, S.; GAUTRAIS, J.; THERAULAZ, G. The biological principles of swarm
+  intelligence.
+\emph{ Swarm Intelligence}, Springer, v.~1, n.~1, p. 3--31, 2007.}
+
+\bibitem[Goldberg e Richardson 1987]{sharing}
+\abntrefinfo{Goldberg e Richardson}{GOLDBERG; RICHARDSON}{1987}
+{GOLDBERG, D.~E.; RICHARDSON, J. Genetic algorithms with sharing for multimodal
+  function optimization. In:  HILLSDALE, NJ: LAWRENCE ERLBAUM. \emph{ Genetic
+  algorithms and their applications: Proceedings of the Second International
+  Conference on Genetic Algorithms}. 1987. p. 41--49.}
+
+\bibitem[Holland 1975]{holland1975adaptation}
+\abntrefinfo{Holland}{HOLLAND}{1975}
+{HOLLAND, J.~H. \emph{ Adaptation in natural and artificial systems: an
+  introductory analysis with applications to biology, control, and artificial
+  intelligence.} : U Michigan Press, 1975.}
+
+\bibitem[Kundu 2013]{kundu2013crowding}
+\abntrefinfo{Kundu}{KUNDU}{2013}
+{KUNDU, S. et al. Crowding-based local differential evolution with
+  speciation-based memory archive for dynamic multimodal optimization. In:
+  ACM. \emph{ Proceedings of the 15th annual conference on Genetic and
+  evolutionary computation}. 2013. p. 33--40.}
+
+\bibitem[Li, Yang e Kang 2006]{li2006new}
+\abntrefinfo{Li, Yang e Kang}{LI; YANG; KANG}{2006}
+{LI, C.; YANG, M.; KANG, L. A new approach to solving dynamic traveling
+  salesman problems. In:  \emph{ Simulated Evolution and Learning}. : Springer,
+  2006. p. 236--243.}
+
+\bibitem[Li 2005]{li2005efficient}
+\abntrefinfo{Li}{LI}{2005}
+{LI, X. Efficient differential evolution using speciation for multimodal
+  function optimization. In:  ACM. \emph{ Proceedings of the 7th annual
+  conference on Genetic and evolutionary computation}. 2005. p. 873--880.}
+
+\bibitem[Madeiro 2011]{madeiro2011density}
+\abntrefinfo{Madeiro}{MADEIRO}{2011}
+{MADEIRO, S.~S. et al. Density as the segregation mechanism in fish school
+  search for multimodal optimization problems. In:  \emph{ Advances in Swarm
+  Intelligence}. : Springer, 2011. p. 563--572.}
+
+\bibitem[Mahfoud 1995]{deterministic_crowding}
+\abntrefinfo{Mahfoud}{MAHFOUD}{1995}
+{MAHFOUD, S.~W. Niching methods for genetic algorithms.
+\emph{ Urbana}, Citeseer, v.~51, n. 95001, p. 62--94, 1995.}
+
+\bibitem[Mengshoel e Goldberg 1999]{probabilisti_crowding}
+\abntrefinfo{Mengshoel e Goldberg}{MENGSHOEL; GOLDBERG}{1999}
+{MENGSHOEL, O.~J.; GOLDBERG, D.~E. Probabilistic crowding: Deterministic
+  crowding with probabilistic replacement. In:  \emph{ Proc. of the Genetic and
+  Evolutionary Computation Conference (GECCO-99)}. 1999. p. 409.}
+
+\bibitem[Morrison 2003]{morrison2003performance}
+\abntrefinfo{Morrison}{MORRISON}{2003}
+{MORRISON, R.~W. Performance measurement in dynamic environments. In:  \emph{
+  GECCO workshop on evolutionary algorithms for dynamic optimization problems}.
+  : Citeseer, 2003. p. 5--8.}
+
+\bibitem[Morrison e De~Jong 1999]{morrison1999test}
+\abntrefinfo{Morrison e De~Jong}{MORRISON; DE~JONG}{1999}
+{MORRISON, R.~W.; DE~JONG, K.~A. A test problem generator for non-stationary
+  environments. In:  IEEE. \emph{ Evolutionary Computation, 1999. CEC 99.
+  Proceedings of the 1999 Congress on}. 1999. v.~3.}
+
+\bibitem[Moser 2007]{moser2007review}
+\abntrefinfo{Moser}{MOSER}{2007}
+{MOSER, C.~I. Review all currently known publications on approaches which solve
+  the moving peaks problem.
+Citeseer, 2007.}
+
+\bibitem[Nguyen, Yang e Branke 2012]{evolution_dynamic}
+\abntrefinfo{Nguyen, Yang e Branke}{NGUYEN; YANG; BRANKE}{2012}
+{NGUYEN, T.~T.; YANG, S.; BRANKE, J. Evolutionary dynamic optimization: A
+  survey of the state of the art.
+\emph{ Swarm and Evolutionary Computation}, Elsevier, v.~6, p. 1--24, 2012.}
+
+\bibitem[Oliveira, Silva e Aloise 2004]{de2004otimizaccao}
+\abntrefinfo{Oliveira, Silva e Aloise}{OLIVEIRA; SILVA; ALOISE}{2004}
+{OLIVEIRA, M. C.~S. de; SILVA, T.~L.; ALOISE, D.~J. Otimiza{\c{c}}{\~a}o por
+  nuvem de part{\'\i}culas: diferen{\c{c}}a entre aplica{\c{c}}{\~o}es a
+  problemas cont{\'\i}nuos e discretos.
+\emph{ XXXVI SBPO. S{\~a}o Jo{\~a}o Del-Rei--MG}, 2004.}
+
+\bibitem[Parpinelli e Lopes 2011]{parpinelli2011new}
+\abntrefinfo{Parpinelli e Lopes}{PARPINELLI; LOPES}{2011}
+{PARPINELLI, R.~S.; LOPES, H.~S. New inspirations in swarm intelligence: a
+  survey.
+\emph{ International Journal of Bio-Inspired Computation}, Inderscience
+  Publishers Ltd, v.~3, n.~1, p. 1--16, 2011.}
+
+\bibitem[Parrott e Li 2006]{parrott2006locating}
+\abntrefinfo{Parrott e Li}{PARROTT; LI}{2006}
+{PARROTT, D.; LI, X. Locating and tracking multiple dynamic optima by a
+  particle swarm model using speciation.
+\emph{ Evolutionary Computation, IEEE Transactions on}, IEEE, v.~10, n.~4, p.
+  440--458, 2006.}
+
+\bibitem[Passino 2002]{passino2002biomimicry}
+\abntrefinfo{Passino}{PASSINO}{2002}
+{PASSINO, K.~M. Biomimicry of bacterial foraging for distributed optimization
+  and control.
+\emph{ Control Systems, IEEE}, IEEE, v.~22, n.~3, p. 52--67, 2002.}
+
+\bibitem[P{\'e}trowski 1996]{clearing}
+\abntrefinfo{P{\'e}trowski}{P{\'E}TROWSKI}{1996}
+{P{\'E}TROWSKI, A. A clearing procedure as a niching method for genetic
+  algorithms. In:  IEEE. \emph{ Evolutionary Computation, 1996., Proceedings of
+  IEEE International Conference on}. 1996. p. 798--803.}
+
+\bibitem[Price, Storn e Lampinen 2006]{de}
+\abntrefinfo{Price, Storn e Lampinen}{PRICE; STORN; LAMPINEN}{2006}
+{PRICE, K.; STORN, R.~M.; LAMPINEN, J.~A. \emph{ Differential evolution: a
+  practical approach to global optimization}. : Springer Science \& Business
+  Media, 2006.}
+
+\bibitem[Rand e Riolo 2005]{rand2005measurements}
+\abntrefinfo{Rand e Riolo}{RAND; RIOLO}{2005}
+{RAND, W.; RIOLO, R. Measurements for understanding the behavior of the genetic
+  algorithm in dynamic environments: A case study using the shaky ladder
+  hyperplane-defined functions. In:  ACM. \emph{ Proceedings of the 7th annual
+  workshop on Genetic and evolutionary computation}. 2005. p. 32--38.}
+
+\bibitem[Rozenberg, Bck e Kok 2011]{rozenberg2011handbook}
+\abntrefinfo{Rozenberg, Bck e Kok}{ROZENBERG; BCK; KOK}{2011}
+{ROZENBERG, G.; BCK, T.; KOK, J.~N. \emph{ Handbook of natural computing}. :
+  Springer Publishing Company, Incorporated, 2011.}
+
+\bibitem[Thomsen 2004]{thomsen2004multimodal}
+\abntrefinfo{Thomsen}{THOMSEN}{2004}
+{THOMSEN, R. Multimodal optimization using crowding-based differential
+  evolution. In:  IEEE. \emph{ Evolutionary Computation, 2004. CEC2004.
+  Congress on}. 2004. v.~2, p. 1382--1389.}
+
+\bibitem[Yang e Li 2010]{yang2010clustering}
+\abntrefinfo{Yang e Li}{YANG; LI}{2010}
+{YANG, S.; LI, C. A clustering particle swarm optimizer for locating and
+  tracking multiple optima in dynamic environments.
+\emph{ Evolutionary Computation, IEEE Transactions on}, IEEE, v.~14, n.~6, p.
+  959--974, 2010.}
+
+\bibitem[Yang 2008]{firefly}
+\abntrefinfo{Yang}{YANG}{2008}
+{YANG, X.-S. Firefly algorithm.
+\emph{ Nature-inspired metaheuristic algorithms}, v.~20, p. 79--90, 2008.}
+
+\bibitem[Yang e Hossein~Gandomi 2012]{bat}
+\abntrefinfo{Yang e Hossein~Gandomi}{YANG; HOSSEIN~GANDOMI}{2012}
+{YANG, X.-S.; HOSSEIN~GANDOMI, A. Bat algorithm: a novel approach for global
+  engineering optimization.
+\emph{ Engineering Computations}, Emerald Group Publishing Limited, v.~29,
+  n.~5, p. 464--483, 2012.}
+
+\end{thebibliography}
