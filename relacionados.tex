@@ -50,39 +50,39 @@ O PSO é um dos algoritmos de SI mais estudados na área de otimização de prob
 \subsection{\textit{Dynamic Species-Based Particle Swarm Optimizer} - DSPSO}
 \label{sec:dspso}
 
-O DSPSO \cite{parrott2006locating} é baseado na sua versão estacionária, o SPSO que por sua vez é baseado no sistema de espécies. Um sistema baseado em espécies possui vários nichos de espécies e em cada um deles existe um centro geográfico chamado de semente da espécie (\textit{specie seed}). Esse nichos de espécies são utilizados para que o sistema possa encontrar vários pontos ótimos durante o processo de otimização, fazendo com o que sistema não fique estagnado em um pico sub ótimo.
+O DSPSO \cite{parrott2006locating} é baseado na sua versão estacionária, o SPSO que por sua vez é baseado no sistema de espécies. Um sistema baseado em espécies possui vários nichos de espécies e em cada um deles existe um centro geográfico chamado de semente da espécie (\textit{specie seed}). Esses nichos de espécies são utilizados para que o sistema possa encontrar vários pontos ótimos durante o processo de otimização, fazendo com o que sistema não fique estagnado em um pico subótimo.
 
 Para encontrar os pontos ótimos após uma mudança no ambiente, para cada partícula da população é reavaliado o \textit{fitness} em função do melhor \textit{fitness} da população. Então cada partícula usa sua informação de aptidão para realizar o movimento, tendo sempre uma noção prévia do ambiente ao seu redor. Para incentivar o enxame a realizar uma busca no ambiente e evitar uma convergência prematura do sistema, foi introduzido o parâmetro de limite de partículas por espécies ($P_{max}$), de forma que se uma partícula fosse entrar para um espécie mas o limite de integrantes daquela espécie exceder, a partícula com o menor valor de \textit{fitness} é reiniciada. Uma desvantagem desse sistema é que gera uma lentidão no processo de convergência se o $P_{max}$ for muito baixo.
 
 Nos resultados pôde-se observar que nem sempre o DSPSO obteve resultados mais precisos, porém sempre foi capaz de encontrar mais ou o mesmo número de picos que os outros algoritmos.
 
-\subsection{\textit{Clustering Particle Swarm Optimizer} - CPSO}
+\subsection{\textit{Clustering Particle Swarm Optimizer} - ClPSO}
 \label{sec:cpso}
 
-Outra versão do PSO é o \textit{Clustering Particle Swarm Optimizer} CPSO \cite{yang2010clustering}, em que também utiliza o modelo de multi-enxames explicado na Seção \ref{sec:fa_behaviour}.
+Outra versão do PSO é o \textit{Clustering Particle Swarm Optimizer} ClPSO \cite{yang2010clustering}, em que também utiliza o modelo de multienxames explicado na Seção \ref{sec:fa_behaviour}.
 
-CPSO começa a partir de um enxame inicial, chamado de enxame berço. Em seguida, sub enxames são criados por um método de clusterização hierárquico. Quando sub enxames são criados, uma busca local é aplicada sobre eles, a fim de explorar potenciais picos próximos deles. Após isso é feita uma checagem de sub enxames sobrepostos, convergência prematura, e superlotação antes dos próximos ciclos de iteração. Se uma mudança ambiental é detectada, um novo enxame berço será aleatoriamente re-gerado com a reserva das posições dos sobreviveram dos sub enxames anteriores.
+ClPSO começa a partir de um enxame inicial, chamado de enxame berço. Em seguida, subenxames são criados por um método de clusterização hierárquico. Quando subenxames são criados, uma busca local é aplicada sobre eles, a fim de explorar potenciais picos próximos deles. Após isso é feita uma checagem de subenxames sobrepostos, convergência prematura, e superlotação antes dos próximos ciclos de iteração. Se uma mudança ambiental é detectada, um novo enxame berço será aleatoriamente regerado com a reserva das posições dos sobreviveram dos subenxames anteriores.
 
-A divisão do enxame berço para os sub enxames é feita por um processo de clusterização hierárquico de ligação única. O processo de busca local utiliza a partícula de melhor \textit{fitness} global para direcionar o enxame berço, a fim de obter uma convergência mais rápida. Esse modelo de busca local é o utilizado na versão normal do PSO. 
+A divisão do enxame berço para os subenxames é feita por um processo de clusterização hierárquico de ligação única. O processo de busca local utiliza a partícula de melhor \textit{fitness} global para direcionar o enxame berço, a fim de obter uma convergência mais rápida. Esse modelo de busca local é o utilizado na versão normal do PSO. 
 
 O resultados do algoritmo aplicados no \textit{benchmark} MP mostram que ele teve um performance superior as outras versões do PSO analisadas, de forma que quase sempre foi possível encontrar todos os picos e o resultado ótimo.
 
 \subsection{\textit{Volitive Particle Swarm Optimizer} - VPSO}
 \label{sec:vpso}
 
-Uma aplicação do PSO gerou uma versão hybrida dele com o FSS, utilizando os operadores de alimentação e de movimentação coletiva volátil. No \textit{Volitive Particle Swarm Optimizer} (VPSO) \cite{cavalcanti2011hybrid}, cada partícula torna-se uma partícula ponderada, em que o peso é usado para calcular o movimento colessstivo volátil, resultando na expansão ou contração do enxame. Nessa proposta o $step_{vol}$ não diminui linearmente, ele decresce a partir da Equação \ref{eq:vpso}. A percentagem de decaimento do parâmetro volátil ($decay_{vol}$) deve estar no intervalo [0,100].
+Uma aplicação do PSO gerou uma versão híbrida dele com o algoritmo de busca por cardume de peixes (\textit{Fish School Search Algorithm} FSS) \cite{carmelo2008novel}, utilizando os operadores de alimentação e de movimentação coletiva volátil. No \textit{Volitive Particle Swarm Optimizer} (VPSO) \cite{cavalcanti2011hybrid}, cada partícula torna-se um indivíduo ponderado, em que o peso é usado para calcular o movimento coletivo volátil, resultando na expansão ou contração do enxame. Nessa proposta o $step_{vol}$ não diminui linearmente, ele decresce a partir da Equação \ref{eq:vpso}. A percentagem de decaimento do parâmetro volátil ($decay_{vol}$) deve estar no intervalo [0,100].
 
 \begin{equation}
 \label{eq:vpso}
 step_{vol}(t+1) = step_{vol}(t) \frac{100 - decay_{vol}}{100}
 \end{equation}
 
-\noindent O $step_{vol}$ é reinicializado para o $step_{volMax}$ quando uma mudança no ambiente é detectado. É utilizada uma partícula sentinela para detectar estas mudanças. A aptidão da partícula sentinela é avaliada no final de cada iteração e no início da iteração seguinte. Este Algoritmo foi aplicado no DF1 \textit{benchmark} e obeteve resultados melhores que suas versões anteriores, mostrando assim a grande influência que o operador de movimento volátil tem sobre os ambientes dinâmicos.
+\noindent O $step_{vol}$ é reinicializado para o $step_{volMax}$ quando uma mudança no ambiente é detectada. É utilizada uma partícula sentinela para detectar estas mudanças. A aptidão da partícula sentinela é avaliada no final de cada iteração e no início da iteração seguinte. Este Algoritmo foi aplicado no DF1 \textit{benchmark} e obteve resultados melhores que suas versões anteriores, mostrando assim a grande influência que o operador de movimento volátil tem sobre os ambientes dinâmicos.
 
 \section{Otimização por Colônia de Bactérias em Problemas Dinâmicos}
 \label{sec:bfo_behaviour}
 
-O processo de reprodução da BFA que tem o objetivo de acelerar a convergência é adequado em problemas estáticos, porém isso gera uma falta de adaptação em ambientes dinâmicos. Assim, a fim de se comprometer entre a convergência rápida e a alta diversidade, é proposto um algoritmo dinâmico de Otimização por Colônia de Bactérias (\textit{Dynamic Bacterial Foraging Algorithm} - DBFA) \cite{passino2002biomimicry} em que não é utilizada a eliminação-dispersão. Um processo de seleção é introduzido através de um esquema mais flexível para permitir uma melhor capacidade de adaptação em um ambiente em mudança. A ideia básica do DBFA é manter uma diversidade adequada para pesquisa global, enquanto a capacidade de busca local não é degradada, e também considerar as alterações no ambiente. O processo de seleção é descrito na Equação \ref{eq:dbfo}
+O processo de reprodução da BFA que tem o objetivo de acelerar a convergência é adequado em problemas estáticos, porém isso gera uma falta de adaptação em ambientes dinâmicos. Assim, a fim de se comprometer entre a convergência rápida e a alta diversidade, é proposto um algoritmo dinâmico de Otimização por Colônia de Bactérias (\textit{Dynamic Bacterial Foraging Algorithm} - DBFA) \cite{passino2002biomimicry} em que não é utilizada a eliminação/dispersão. Um processo de seleção é introduzido através de um esquema mais flexível para permitir uma melhor capacidade de adaptação em um ambiente em uma mudança. A ideia básica do DBFA é manter uma diversidade adequada para pesquisa global, enquanto a capacidade de busca local não é degradada, e também considerar as alterações no ambiente. O processo de seleção é descrito na Equação \ref{eq:dbfo}
 
 \begin{equation}
 \label{eq:dbfo}
@@ -106,9 +106,9 @@ Com a análise destes problemas foi possível extrair algumas informações rele
 
 O CIDES utiliza como conceito as suas versões anteriores, para que assim pode-se diminuir a quantidade de erro da sua aplicação em problemas dinâmicos. A sua mutação por vizinhança ajudou a manter a busca global mais controlada, de forma que pudesse buscar por valores mais próximos de forma aleatória. Sua função de teste é uma das formas mais básicas estudadas de perceber mudanças no ambiente, o que é uma ferramenta muito importante na aplicação dos algoritmos em ambiente que sofrem essas mudanças constantemente.
 
-O MSFA mostra a importância da aplicação da abordagem de Multi Enxames, que tem como base a co-evolução. Suas rotinas de exclusão e anti-convergência formam a comunicação entre as pequenas populações que existem na otimização, abstraindo a otimização um nível a cima de apenas uma população.
+O MSFA mostra a importância da aplicação da abordagem de multienxames, que tem como base a coevolução. Suas rotinas de exclusão e anti convergência formam a comunicação entre as pequenas populações que existem na otimização, abstraindo a otimização um nível a cima de apenas uma população.
 
-O VPSO demostra uma aplicação do operador de movimentação coletiva volátil do FSS, que é o foco da pesquisa deste trabalho, e mostra que tem grandes possibilidade para ajudar a manter a população no caminho certo durante as mudanças do ambiente.
+O VPSO demonstra uma aplicação do operador de movimentação coletiva volátil do FSS, que é o foco da pesquisa deste trabalho, e mostra que tem grandes possibilidade para ajudar a manter a população no caminho certo durante as mudanças do ambiente.
 
 No DBFA pode-se notar mais uma versão conjunta de dois algoritmos, em que usa-se o Algoritmo BFA com a rotina de seleção do AG. Isso mostra que mesmo algoritmos de classes diferentes (como os EA com o AG e os SI com o BFA) podem ser aplicados em conjunto e terem resultados melhores que separados.
 

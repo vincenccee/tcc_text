@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: capa.aux
@@ -20,12 +20,11 @@ I was expecting an "="---line 240 of file refs.bib
  :   title={Particle swarms and population diversity},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 401 of file refs.bib
+Repeated entry---line 441 of file refs.bib
  : @inproceedings{rand2005measurements
  :                                    ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "abnt-url-package=hyperref"
-Warning--I didn't find a database entry for "c2009influence"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--campo journal vazio em crowding
 Warning--campo journal vazio em moser2007review
@@ -33,43 +32,43 @@ Warning--Aviso: Este estilo está em desenvolvimento.
 Warning--Caso tenha problemas procure por http://abntex.codigolivre.org.br
 You've used 43 entries,
             4388 wiz_defined-function locations,
-            1075 strings with 14442 characters,
-and the built_in function-call counts, 31099 in all, are:
-= -- 2492
-> -- 1449
-< -- 86
-+ -- 584
-- -- 434
-* -- 1899
-:= -- 4445
-add.period$ -- 163
+            1076 strings with 14191 characters,
+and the built_in function-call counts, 30847 in all, are:
+= -- 2462
+> -- 1432
+< -- 89
++ -- 576
+- -- 430
+* -- 1898
+:= -- 4406
+add.period$ -- 159
 call.type$ -- 43
-change.case$ -- 393
-chr.to.int$ -- 103
+change.case$ -- 390
+chr.to.int$ -- 106
 cite$ -- 45
-duplicate$ -- 1921
-empty$ -- 2602
-format.name$ -- 547
-if$ -- 7118
+duplicate$ -- 1926
+empty$ -- 2559
+format.name$ -- 543
+if$ -- 7027
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 536
-newline$ -- 198
+missing$ -- 538
+newline$ -- 200
 num.names$ -- 215
-pop$ -- 1103
+pop$ -- 1102
 preamble$ -- 1
-purify$ -- 176
+purify$ -- 174
 quote$ -- 0
-skip$ -- 1307
+skip$ -- 1285
 stack$ -- 0
-substring$ -- 1131
-swap$ -- 1030
-text.length$ -- 66
+substring$ -- 1124
+swap$ -- 1035
+text.length$ -- 68
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 5
+type$ -- 4
 warning$ -- 4
 while$ -- 309
 width$ -- 0
-write$ -- 694
+write$ -- 697
 (There were 2 error messages)

@@ -1,4 +1,4 @@
-\BOOKMARK [0][-]{chapter*.5}{Lista de Abreviaturas}{}% 1
+\BOOKMARK [0][-]{chapter*.7}{Lista de Abreviaturas}{}% 1
 \BOOKMARK [0][-]{chapter.1}{Introdu\347\343o}{}% 2
 \BOOKMARK [1][-]{section.1.1}{Objetivo}{chapter.1}% 3
 \BOOKMARK [1][-]{section.1.2}{Estrutura do Trabalho}{chapter.1}% 4
@@ -8,11 +8,11 @@
 \BOOKMARK [2][-]{subsection.2.2.1}{Algoritmo Gen\351tico}{section.2.2}% 8
 \BOOKMARK [2][-]{subsection.2.2.2}{Evolu\347\343o Diferencial}{section.2.2}% 9
 \BOOKMARK [1][-]{section.2.3}{Algoritmos de Intelig\352ncia de Enxame}{chapter.2}% 10
-\BOOKMARK [2][-]{subsection.2.3.1}{Otimiza\347\343o por Enxame de Part\355culas}{section.2.3}% 11
-\BOOKMARK [2][-]{subsection.2.3.2}{Otimiza\347\343o por Col\364nia de Bact\351rias}{section.2.3}% 12
-\BOOKMARK [2][-]{subsection.2.3.3}{Otimiza\347\343o por Col\364nia de Vaga-Lumes}{section.2.3}% 13
-\BOOKMARK [2][-]{subsection.2.3.4}{Otimiza\347\343o por Col\364nia de Morcegos}{section.2.3}% 14
-\BOOKMARK [2][-]{subsection.2.3.5}{Algoritmo de Busca por Cardume de Peixes}{section.2.3}% 15
+\BOOKMARK [2][-]{subsection.2.3.1}{Otimiza\347\343o por Col\364nia de Bact\351rias}{section.2.3}% 11
+\BOOKMARK [2][-]{subsection.2.3.2}{Otimiza\347\343o por Col\364nia de Vaga-Lumes}{section.2.3}% 12
+\BOOKMARK [2][-]{subsection.2.3.3}{Otimiza\347\343o por Col\364nia de Morcegos}{section.2.3}% 13
+\BOOKMARK [2][-]{subsection.2.3.4}{Otimiza\347\343o por Enxame de Part\355culas}{section.2.3}% 14
+\BOOKMARK [2][-]{subsection.2.3.5}{Otimiza\347\343o por Enxame de Part\355culas em Cl\343s}{section.2.3}% 15
 \BOOKMARK [1][-]{section.2.4}{Diversidade Populacional}{chapter.2}% 16
 \BOOKMARK [2][-]{subsection.2.4.1}{Manuten\347\343o}{section.2.4}% 17
 \BOOKMARK [2][-]{subsection.2.4.2}{M\351tricas}{section.2.4}% 18
@@ -29,11 +29,11 @@
 \BOOKMARK [1][-]{section.4.2}{Algoritmo de Vaga-Lumes baseado em multi-enxames - MSFA}{chapter.4}% 29
 \BOOKMARK [1][-]{section.4.3}{Algoritmo PSO em Ambientes Din\342micos}{chapter.4}% 30
 \BOOKMARK [2][-]{subsection.4.3.1}{Dynamic Species-Based Particle Swarm Optimizer - DSPSO}{section.4.3}% 31
-\BOOKMARK [2][-]{subsection.4.3.2}{Clustering Particle Swarm Optimizer - CPSO}{section.4.3}% 32
+\BOOKMARK [2][-]{subsection.4.3.2}{Clustering Particle Swarm Optimizer - ClPSO}{section.4.3}% 32
 \BOOKMARK [2][-]{subsection.4.3.3}{Volitive Particle Swarm Optimizer - VPSO}{section.4.3}% 33
 \BOOKMARK [1][-]{section.4.4}{Otimiza\347\343o por Col\364nia de Bact\351rias em Problemas Din\342micos}{chapter.4}% 34
 \BOOKMARK [1][-]{section.4.5}{Considera\347\365es}{chapter.4}% 35
 \BOOKMARK [0][-]{chapter.5}{Proposta}{}% 36
 \BOOKMARK [1][-]{section.5.1}{Estudo de Caso}{chapter.5}% 37
 \BOOKMARK [0][-]{chapter.6}{Considera\347\365es}{}% 38
-\BOOKMARK [0][-]{chapter*.9}{Bibliografia}{}% 39
+\BOOKMARK [0][-]{chapter*.10}{Bibliografia}{}% 39

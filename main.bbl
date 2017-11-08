@@ -10,12 +10,6 @@
 \emph{ Polibits}, Instituto Polit{\'e}cnico Nacional, Centro de Innovaci{\'o}n
   y Desarrollo Tecnol{\'o}gico en C{\'o}mputo, n.~51, p. 47--54, 2015.}
 
-\bibitem[Bastos~Filho 2009]{bastos2009influence}
-\abntrefinfo{Bastos~Filho}{BASTOS~FILHO}{2009}
-{BASTOS~FILHO, C.~J. et al. On the influence of the swimming operators in the
-  fish school search algorithm. In:  IEEE. \emph{ Systems, Man and Cybernetics,
-  2009. SMC 2009. IEEE International Conference on}. 2009. p. 5012--5017.}
-
 \bibitem[Bellman e Dreyfus 2015]{bellman2015applied}
 \abntrefinfo{Bellman e Dreyfus}{BELLMAN; DREYFUS}{2015}
 {BELLMAN, R.~E.; DREYFUS, S.~E. \emph{ Applied dynamic programming}. :
@@ -45,6 +39,12 @@
 {BRANKE, J. \emph{ Evolutionary optimization in dynamic environments}. :
   Springer Science \& Business Media, 2012.}
 
+\bibitem[Branke e Schmeck 2003]{offlineError}
+\abntrefinfo{Branke e Schmeck}{BRANKE; SCHMECK}{2003}
+{BRANKE, J.; SCHMECK, H. Designing evolutionary algorithms for dynamic
+  optimization problems.
+\emph{ Advances in evolutionary computing}, Springer, p. 239--262, 2003.}
+
 \bibitem[Carlisle 2002]{carlisle2002applying}
 \abntrefinfo{Carlisle}{CARLISLE}{2002}
 {CARLISLE, A.~J. \emph{ Applying the particle swarm optimizer to non-stationary
@@ -55,6 +55,14 @@
 {CARMELO~FILHO, J. et al. A novel search algorithm based on fish school
   behavior. In:  IEEE. \emph{ Systems, Man and Cybernetics, 2008. SMC 2008.
   IEEE International Conference on}. 2008. p. 2646--2651.}
+
+\bibitem[Carvalho e Jos{\'e} Albanez Bastos-Filho 2009]{ferreira2009clan}
+\abntrefinfo{Carvalho e Jos{\'e} Albanez Bastos-Filho}{CARVALHO; JOS{\'E}
+  ALBANEZ BASTOS-FILHO}{2009}
+{CARVALHO, D. Ferreira~de; JOS{\'E} ALBANEZ BASTOS-FILHO, C. Clan particle
+  swarm optimization.
+\emph{ International Journal of Intelligent Computing and Cybernetics}, Emerald
+  Group Publishing Limited, v.~2, n.~2, p. 197--227, 2009.}
 
 \bibitem[Castro 2007]{de2007fundamentals}
 \abntrefinfo{Castro}{CASTRO}{2007}
@@ -148,12 +156,6 @@
 {LI, X. Efficient differential evolution using speciation for multimodal
   function optimization. In:  ACM. \emph{ Proceedings of the 7th annual
   conference on Genetic and evolutionary computation}. 2005. p. 873--880.}
-
-\bibitem[Madeiro 2011]{madeiro2011density}
-\abntrefinfo{Madeiro}{MADEIRO}{2011}
-{MADEIRO, S.~S. et al. Density as the segregation mechanism in fish school
-  search for multimodal optimization problems. In:  \emph{ Advances in Swarm
-  Intelligence}. : Springer, 2011. p. 563--572.}
 
 \bibitem[Mahfoud 1995]{deterministic_crowding}
 \abntrefinfo{Mahfoud}{MAHFOUD}{1995}
