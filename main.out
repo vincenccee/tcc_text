@@ -17,23 +17,27 @@
 \BOOKMARK [2][-]{subsection.2.4.1}{Manuten\347\343o}{section.2.4}% 17
 \BOOKMARK [2][-]{subsection.2.4.2}{M\351tricas}{section.2.4}% 18
 \BOOKMARK [1][-]{section.2.5}{Aplica\347\343o do AG em ambientes din\342micos}{chapter.2}% 19
-\BOOKMARK [0][-]{chapter.3}{Problemas Din\342micos com Dom\355nio Cont\355nuo}{}% 20
-\BOOKMARK [1][-]{section.3.1}{Fun\347\365es Benchmark}{chapter.3}% 21
-\BOOKMARK [2][-]{subsection.3.1.1}{Avalia\347\343o de Desempenho}{section.3.1}% 22
-\BOOKMARK [1][-]{section.3.2}{Inst\342ncias de Problemas}{chapter.3}% 23
-\BOOKMARK [2][-]{subsection.3.2.1}{Moving Peaks - MP}{section.3.2}% 24
-\BOOKMARK [2][-]{subsection.3.2.2}{Ocillating Peaks - OP}{section.3.2}% 25
-\BOOKMARK [2][-]{subsection.3.2.3}{Gerador de Problemas de teste para Ambientes n\343o Estacion\341rios}{section.3.2}% 26
-\BOOKMARK [0][-]{chapter.4}{Trabalhos Relacionados}{}% 27
-\BOOKMARK [1][-]{section.4.1}{Evolu\347\343o Diferencial Local a Base de Aglomera\347\343o e com Mem\363ria Baseada em Esp\351cies}{chapter.4}% 28
-\BOOKMARK [1][-]{section.4.2}{Algoritmo de Vaga-Lumes baseado em multi-enxames - MSFA}{chapter.4}% 29
-\BOOKMARK [1][-]{section.4.3}{Algoritmo PSO em Ambientes Din\342micos}{chapter.4}% 30
-\BOOKMARK [2][-]{subsection.4.3.1}{Dynamic Species-Based Particle Swarm Optimizer - DSPSO}{section.4.3}% 31
-\BOOKMARK [2][-]{subsection.4.3.2}{Clustering Particle Swarm Optimizer - ClPSO}{section.4.3}% 32
-\BOOKMARK [2][-]{subsection.4.3.3}{Volitive Particle Swarm Optimizer - VPSO}{section.4.3}% 33
-\BOOKMARK [1][-]{section.4.4}{Otimiza\347\343o por Col\364nia de Bact\351rias em Problemas Din\342micos}{chapter.4}% 34
-\BOOKMARK [1][-]{section.4.5}{Considera\347\365es}{chapter.4}% 35
-\BOOKMARK [0][-]{chapter.5}{Proposta}{}% 36
-\BOOKMARK [1][-]{section.5.1}{Estudo de Caso}{chapter.5}% 37
-\BOOKMARK [0][-]{chapter.6}{Considera\347\365es}{}% 38
-\BOOKMARK [0][-]{chapter*.10}{Bibliografia}{}% 39
+\BOOKMARK [1][-]{section.2.6}{Problemas Din\342micos com Dom\355nio Cont\355nuo}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.7}{Fun\347\365es Benchmark}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.7.1}{Avalia\347\343o de Desempenho}{section.2.7}% 22
+\BOOKMARK [1][-]{section.2.8}{Inst\342ncias de Problemas}{chapter.2}% 23
+\BOOKMARK [2][-]{subsection.2.8.1}{Moving Peaks - MP}{section.2.8}% 24
+\BOOKMARK [2][-]{subsection.2.8.2}{Ocillating Peaks - OP}{section.2.8}% 25
+\BOOKMARK [2][-]{subsection.2.8.3}{Gerador de Problemas de teste para Ambientes n\343o Estacion\341rios}{section.2.8}% 26
+\BOOKMARK [0][-]{chapter.3}{Trabalhos Relacionados}{}% 27
+\BOOKMARK [1][-]{section.3.1}{Evolu\347\343o Diferencial Local a Base de Aglomera\347\343o e com Mem\363ria Baseada em Esp\351cies}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.2}{Algoritmo de Vaga-Lumes baseado em multi-enxames - MSFA}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.3}{Algoritmo PSO em Ambientes Din\342micos}{chapter.3}% 30
+\BOOKMARK [2][-]{subsection.3.3.1}{Dynamic Species-Based Particle Swarm Optimizer - DSPSO}{section.3.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.2}{Clustering Particle Swarm Optimizer - ClPSO}{section.3.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.3}{Volitive Particle Swarm Optimizer - VPSO}{section.3.3}% 33
+\BOOKMARK [1][-]{section.3.4}{Otimiza\347\343o por Col\364nia de Bact\351rias em Problemas Din\342micos}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.5}{Considera\347\365es}{chapter.3}% 35
+\BOOKMARK [0][-]{chapter.4}{Modelo}{}% 36
+\BOOKMARK [1][-]{section.4.1}{Caracter\355sticas do algoritmo}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.1.1}{Fun\347\343o de Aglomeramento \(crowding\)}{section.4.1}% 38
+\BOOKMARK [1][-]{section.4.2}{Ilustra\347\343o Conceitual}{chapter.4}% 39
+\BOOKMARK [0][-]{chapter.5}{Protocolo de Experimenta\347\343o}{}% 40
+\BOOKMARK [0][-]{chapter.6}{Resultados e An\341lises}{}% 41
+\BOOKMARK [0][-]{chapter.7}{Conclus\343o e Trabalhos Futuros}{}% 42
+\BOOKMARK [0][-]{chapter*.10}{Bibliografia}{}% 43

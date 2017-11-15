@@ -18,25 +18,29 @@
 \contentsline {subsection}{\numberline {2.4.1}Manuten\IeC {\c c}\IeC {\~a}o}{24}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}M\IeC {\'e}tricas}{25}{subsection.2.4.2}
 \contentsline {section}{\numberline {2.5}Aplica\IeC {\c c}\IeC {\~a}o do AG em ambientes din\IeC {\^a}micos}{26}{section.2.5}
-\contentsline {chapter}{\numberline {3}Problemas Din\IeC {\^a}micos com Dom\IeC {\'\i }nio Cont\IeC {\'\i }nuo}{28}{chapter.3}
-\contentsline {section}{\numberline {3.1}Fun\IeC {\c c}\IeC {\~o}es \textit {Benchmark}}{28}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Avalia\IeC {\c c}\IeC {\~a}o de Desempenho}{29}{subsection.3.1.1}
-\contentsline {subsubsection}{Otimalidade}{30}{section*.8}
-\contentsline {subsubsection}{Comportamento}{31}{section*.9}
-\contentsline {section}{\numberline {3.2}Inst\IeC {\^a}ncias de Problemas}{31}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}\textit {Moving Peaks} - MP}{32}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}\textit {Ocillating Peaks} - OP}{33}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Gerador de Problemas de teste para Ambientes n\IeC {\~a}o Estacion\IeC {\'a}rios}{34}{subsection.3.2.3}
-\contentsline {chapter}{\numberline {4}Trabalhos Relacionados}{36}{chapter.4}
-\contentsline {section}{\numberline {4.1}Evolu\IeC {\c c}\IeC {\~a}o Diferencial Local a Base de Aglomera\IeC {\c c}\IeC {\~a}o e com Mem\IeC {\'o}ria Baseada em Esp\IeC {\'e}cies}{36}{section.4.1}
-\contentsline {section}{\numberline {4.2}Algoritmo de Vaga-Lumes baseado em multi-enxames - MSFA}{38}{section.4.2}
-\contentsline {section}{\numberline {4.3}Algoritmo PSO em Ambientes Din\IeC {\^a}micos}{39}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}\textit {Dynamic Species-Based Particle Swarm Optimizer} - DSPSO}{39}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}\textit {Clustering Particle Swarm Optimizer} - ClPSO}{40}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}\textit {Volitive Particle Swarm Optimizer} - VPSO}{40}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Otimiza\IeC {\c c}\IeC {\~a}o por Col\IeC {\^o}nia de Bact\IeC {\'e}rias em Problemas Din\IeC {\^a}micos}{41}{section.4.4}
-\contentsline {section}{\numberline {4.5}Considera\IeC {\c c}\IeC {\~o}es}{42}{section.4.5}
-\contentsline {chapter}{\numberline {5}Proposta}{44}{chapter.5}
-\contentsline {section}{\numberline {5.1}Estudo de Caso}{44}{section.5.1}
-\contentsline {chapter}{\numberline {6}Considera\IeC {\c c}\IeC {\~o}es}{49}{chapter.6}
-\contentsline {chapter}{Bibliografia}{51}{chapter*.10}
+\contentsline {section}{\numberline {2.6}Problemas Din\IeC {\^a}micos com Dom\IeC {\'\i }nio Cont\IeC {\'\i }nuo}{27}{section.2.6}
+\contentsline {section}{\numberline {2.7}Fun\IeC {\c c}\IeC {\~o}es \textit {Benchmark}}{28}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Avalia\IeC {\c c}\IeC {\~a}o de Desempenho}{29}{subsection.2.7.1}
+\contentsline {subsubsection}{Otimalidade}{29}{section*.8}
+\contentsline {subsubsection}{Comportamento}{30}{section*.9}
+\contentsline {section}{\numberline {2.8}Inst\IeC {\^a}ncias de Problemas}{31}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}\textit {Moving Peaks} - MP}{31}{subsection.2.8.1}
+\contentsline {subsection}{\numberline {2.8.2}\textit {Ocillating Peaks} - OP}{32}{subsection.2.8.2}
+\contentsline {subsection}{\numberline {2.8.3}Gerador de Problemas de teste para Ambientes n\IeC {\~a}o Estacion\IeC {\'a}rios}{33}{subsection.2.8.3}
+\contentsline {chapter}{\numberline {3}Trabalhos Relacionados}{35}{chapter.3}
+\contentsline {section}{\numberline {3.1}Evolu\IeC {\c c}\IeC {\~a}o Diferencial Local a Base de Aglomera\IeC {\c c}\IeC {\~a}o e com Mem\IeC {\'o}ria Baseada em Esp\IeC {\'e}cies}{35}{section.3.1}
+\contentsline {section}{\numberline {3.2}Algoritmo de Vaga-Lumes baseado em multi-enxames - MSFA}{37}{section.3.2}
+\contentsline {section}{\numberline {3.3}Algoritmo PSO em Ambientes Din\IeC {\^a}micos}{38}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}\textit {Dynamic Species-Based Particle Swarm Optimizer} - DSPSO}{38}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}\textit {Clustering Particle Swarm Optimizer} - ClPSO}{39}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}\textit {Volitive Particle Swarm Optimizer} - VPSO}{39}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}Otimiza\IeC {\c c}\IeC {\~a}o por Col\IeC {\^o}nia de Bact\IeC {\'e}rias em Problemas Din\IeC {\^a}micos}{40}{section.3.4}
+\contentsline {section}{\numberline {3.5}Considera\IeC {\c c}\IeC {\~o}es}{41}{section.3.5}
+\contentsline {chapter}{\numberline {4}Modelo}{43}{chapter.4}
+\contentsline {section}{\numberline {4.1}Caracter\IeC {\'\i }sticas do algoritmo}{43}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Fun\IeC {\c c}\IeC {\~a}o de Aglomeramento (\textit {crowding})}{44}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Ilustra\IeC {\c c}\IeC {\~a}o Conceitual}{44}{section.4.2}
+\contentsline {chapter}{\numberline {5}Protocolo de Experimenta\IeC {\c c}\IeC {\~a}o}{45}{chapter.5}
+\contentsline {chapter}{\numberline {6}Resultados e An\IeC {\'a}lises}{46}{chapter.6}
+\contentsline {chapter}{\numberline {7}Conclus\IeC {\~a}o e Trabalhos Futuros}{47}{chapter.7}
+\contentsline {chapter}{Bibliografia}{49}{chapter*.10}

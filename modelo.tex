@@ -1,0 +1,26 @@
+\chapter{Modelo}
+\label{ch:modelo}
+
+Neste capítulo, uma nova versão baseada no Algoritmo de Otimização Enxame de Partículas em Clãs, chamado de Algoritmo de Otimização por Enxame de Partículas em Clãs Dinâmico (\textit{Dynamic Clan Particle Swarm Optimization}, DCPSO), será apresentada para utilização na otimização de problemas dinâmicos de domínio contínuo.
+
+Essa nova versão do CPSO utiliza uma rotina de aglomeramento (\textit{crowding}) como manutenção da diversidade e uma rotina nova chamada de explosão, que consiste em um reinicialização de alguns clans quando a diversidade entre esses clans forem muito baixa e o ambiente sofrer uma mudança.
+
+\section{Características do algoritmo}
+\label{sec:caracteristicas_algoritmo}
+
+Inicialmente o CPSO, sem nenhuma alteração, aplicado a problemas dinâmicos não teve uma performance muito boa em manter o rastreamento de vários picos ao mesmo tempo. Então foram definidos modificação para ajudar neste processo de rastreamento e assim na melhoria da performace do algoritmo. Algo que foi adicionado também foi uma rotina de verificação de mudança, pois as rotinas citada anteriomente são ações reativas e precisam saber quando acontece uma mudança no ambiente
+
+\begin{enumerate}
+	\item Função de Aglomeramento (\textit{crowding}): Tem como abjetivo ajudar os clãs a se manterem separados e assim a convergência acontece melhor dentro de cada um dos clãs.
+	\item Função de Explosão: Tem como objetivo reinicializar os clãs que se aglomeraram, assim permitindo que o clã resetado procure outro pico (ótimo local) para fazer o rastreamento e assim almentado a diversidade populacional e entre clãs.
+	\item Função de Detecção de Mudança: É executada toda iteração e tem como objetivo detectar se o ambiente sofreu alguma mudança. Para isso foi criada uma partícula de teste que acrescenta uma avaliaçào de fitness a mais para cada execução.
+\end{enumerate}
+
+\subsection{Função de Aglomeramento (\textit{crowding})}
+\label{subsec:crowding}
+
+
+\section{Ilustração Conceitual}
+\label{sec:ilustracao_conceitual}
+
+Nesta seção será apresentado um modelo de ilustração conceitual para demotrar a execução do algoritmo em um ambiente de teste com duas dimenções
